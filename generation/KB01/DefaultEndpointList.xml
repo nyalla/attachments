@@ -1,0 +1,29 @@
+<CustomerEndpointList>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>US_NY_DDD_BELOW</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_US_NY_DDD_BELOW_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>DDD BELOW</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>US_NY_AAA_BELOW</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_US_NY_AAA_BELOW_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>AAA BELOW</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>US_NY_CCC_BELOW</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_US_NY_CCC_BELOW_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>CCC BELOW</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+     </CustomerEndpointList>

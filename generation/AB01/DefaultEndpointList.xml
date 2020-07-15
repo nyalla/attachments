@@ -1,0 +1,29 @@
+<CustomerEndpointList>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>IN_TS_AAA_ABOVE</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_IN_TS_AAA_ABOVE_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>AAA ABOVE</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>IN_TS_BBB_ABOVE</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_IN_TS_BBB_ABOVE_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>BBB ABOVE</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+  <EndCustomerpoint>
+      <Customer>Default</Customer>
+      <CustomerId>IN_TS_CCC_ABOVE</CustomerId>
+     <CustomerNttyStsCd>ACTIVE</CustomerNttyStsCd>
+     <CustomerFctvFr>2018-04-23T11:34:27.548</CustomerFctvFr>
+     <CustomerNdPtCd>VBA_IN_TS_CCC_ABOVE_Flow</CustomerNdPtCd>
+     <CustomerNdPtNm>CCC ABOVE</CustomerNdPtNm>
+     <CustomerIsFldDataPrst>true</CustomerIsFldDataPrst>
+     </EndCustomerpoint>
+     </CustomerEndpointList>

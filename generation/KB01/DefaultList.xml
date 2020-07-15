@@ -1,0 +1,14 @@
+<CusList>
+  <Cus>
+      <Customer>Default</Customer>
+      <CustomerId>KB01<Customer/Id>
+      <NttyCustomerCd>ACTIVE</NttyCustomerCd>
+      <FctvFr>2020-04-12T00:00:00</FctvFr>
+      <PtyCd>KB01</PtyCd>
+      <PtyNm>KB01</PtyNm>
+      <PtyDispNm>KB01</PtyDispNm>
+      <CustomerTp>HEARD</CustomerTp>
+      <PCustomerIdr>CRITICAL</CustomerIdr>
+      <CustomerCalCd>Default</CustomerCalCd>
+   </Cus>
+</CusList>
